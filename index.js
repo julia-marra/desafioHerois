@@ -16,7 +16,7 @@ if (XP <= 1000) {
   nivel = 'Ascendente'
 } else if (XP <= 10000) {
   nivel = 'Imortal'
-} else (XP >= 10001) {
+} else if (XP >= 10001) {
   nivel = 'Radiante'
 }
 
